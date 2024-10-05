@@ -1,1 +1,1 @@
-vanilla,dark,chocolate
+sweet,dark,chocolate,black,vanilla,light,carbonation,bourbon,coffee,smooth,brown,white,smooth,medium,fruit,full,malt,barrel,oak,caramel,tan,thick,stout,rich,creamy,bitter,dry,roasted,orange,citrus,hazy,honey,deep,thin,balanced
